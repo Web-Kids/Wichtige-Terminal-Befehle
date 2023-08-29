@@ -1,6 +1,6 @@
 # Wichtige Linux Ubuntu Terminalbefehle
 
-**Autor:** Sven Kanorschke
+**Autor:** Sven Janorschke
 
 Hier sind einige wichtige Linux Ubuntu Terminalbefehle, die Ihnen bei der Arbeit mit Ihrem System helfen können:
 
